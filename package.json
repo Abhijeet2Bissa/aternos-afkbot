@@ -11,8 +11,8 @@
   "dependencies": {
     "config": "^3.3.3",
     "fs": "0.0.1-security",
-    "mineflayer": "latest",
-    "minecraft-protocol": "latest",
-    "minecraft-data": "latest"
+    "minecraft-data": "latest",
+    "minecraft-protocol": "^1.60.1",
+    "mineflayer": "latest"
   }
 }
